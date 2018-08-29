@@ -8,7 +8,7 @@
 
 import Foundation
 
-let sample1: UInt8 = 0x3a
+let sample1: UInt8 = 0x3A
 var sample2: UInt8 = 58
 var heartRate: Int = 85
 var deposits: Double = 135002796
@@ -21,8 +21,6 @@ var choice: Int = 2
 let integral: Character = "\u{222b}"
 let greeting: String = "Hello"
 var name: String = "Karen"
-
-var value = 3.58
 
 if (sample1 == sample2) {
     print("The samples are equal.")
